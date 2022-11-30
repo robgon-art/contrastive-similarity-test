@@ -7,7 +7,7 @@ By Robert. A Gonsalves</br>
 
 You can see my article on [Medium](https://medium.com/p/4d20980a96f7/edit7)
 
-The source code and generated Haikus are released under the [MIT License](https://raw.githubusercontent.com/robgon-art/contrastive-similarity-test/main/LICENSE).</br>
+The source code is released under the [MIT License](https://raw.githubusercontent.com/robgon-art/contrastive-similarity-test/main/LICENSE).</br>
 ![MIT License](https://raw.githubusercontent.com/robgon-art/contrastive-similarity-test/main/images/mit_license.png)
 
 ## Google Colabs
